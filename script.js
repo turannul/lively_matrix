@@ -20,7 +20,7 @@ c.height = window.innerHeight;
 c.width = window.innerWidth;
 
 // the characters
-var konkani  = "゠アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレワヰヱヲンヺ・ーヽヿ0123456789"
+var konkani  = "=010100100101001001010010010111010010100101101001110101010010100100101000101100101001001010001010011100100101100100101001000101110010100100100000101011100"
 // converting the string into an array of single characters
 var characters = konkani.split("");
 var font_size = 14;
